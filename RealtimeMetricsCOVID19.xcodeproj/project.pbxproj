@@ -13,6 +13,7 @@
 		5568E976249D46DD00426BF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5568E975249D46DD00426BF3 /* Assets.xcassets */; };
 		5568E979249D46DD00426BF3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5568E978249D46DD00426BF3 /* Preview Assets.xcassets */; };
 		5568E97C249D46DD00426BF3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5568E97A249D46DD00426BF3 /* LaunchScreen.storyboard */; };
+		5568E984249E606900426BF3 /* Countries.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5568E983249E606900426BF3 /* Countries.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5568E978249D46DD00426BF3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5568E97B249D46DD00426BF3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5568E97D249D46DD00426BF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5568E983249E606900426BF3 /* Countries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Countries.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				5568E96F249D46DB00426BF3 /* AppDelegate.swift */,
 				5568E971249D46DB00426BF3 /* SceneDelegate.swift */,
 				5568E973249D46DB00426BF3 /* ContentView.swift */,
+				5568E983249E606900426BF3 /* Countries.swift */,
 				5568E975249D46DD00426BF3 /* Assets.xcassets */,
 				5568E97A249D46DD00426BF3 /* LaunchScreen.storyboard */,
 				5568E97D249D46DD00426BF3 /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				5568E970249D46DB00426BF3 /* AppDelegate.swift in Sources */,
 				5568E972249D46DB00426BF3 /* SceneDelegate.swift in Sources */,
+				5568E984249E606900426BF3 /* Countries.swift in Sources */,
 				5568E974249D46DB00426BF3 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
